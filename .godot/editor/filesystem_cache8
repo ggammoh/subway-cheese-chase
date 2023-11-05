@@ -1,0 +1,265 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1699165818
+animation.gd::GDScript::-1::1699130910::0::1::::<>AnimationPlayer<>::
+character.tscn::PackedScene::5587179335567841385::1699150292::0::1::::<><>::
+character_2.tscn::PackedScene::7380044937592900081::1699165817::0::1::::<><>::res://character_new.gd
+character_new.gd::GDScript::-1::1699150559::0::1::::<>CharacterBody3D<>::
+cheese.tscn::PackedScene::3708050813665016867::1699149997::0::1::::<><>::uid://ddqjx3bd17pc5
+cheese_2.gd::GDScript::-1::1699149997::0::1::::<>RigidBody3D<>::
+cheese_2.tscn::PackedScene::5185597761491711881::1699149997::0::1::::<><>::res://cheese_2.gd
+EnvBase.tscn::PackedScene::4978755520677870563::1699165818::0::1::::<><>::uid://t61vva50gjrw::::res://assets/Environment/Car/Chevrolet_Camaro_SS_Low.obj<>uid://bum80omb0iyr2::::res://assets/Environment/Parking Lot/scene.gltf<>uid://coa6mc2oul6b5::::res://assets/Environment/Grassland/Grass02.jpg<>uid://bpplip8h0ahl1::::res://assets/Environment/Trees/tree_dead.fbx<>uid://crtvoy8fc1k8l::::res://assets/Environment/Road/Road.jpg<>uid://bbo57ystn2rfn::::res://assets/Environment/Trees/rock_2.fbx<>uid://cgje5px6654hd::::res://assets/Environment/Fence/burnished-metal.jpg<>uid://dh8xobelniefq::::res://assets/Environment/Fence/fance.obj<>uid://bqadtwghqednt::::res://fredric.tscn<>uid://x74o4rdldy43::::res://assets/Soobway Stoof/raw (1).glb<>uid://7ly76477dp5g::::res://assets/Soobway Stoof/raw (2).glb<>uid://ykp6k1nkr127::::res://assets/Soobway Stoof/outdoor_table_chair_set_01_1k.fbx<>uid://bsvt7m7lgl3o7::::res://assets/Soobway Stoof/raw (4).glb<>uid://hw2pplsdvufs::::res://assets/Soobway Stoof/polyClean.glb<>uid://b567pn4wgntv3::::res://assets/Soobway Stoof/raw (3).glb<>uid://dtwtnw6mjjr6x::::res://assets/Materials/gray_wall.jpg<>uid://d3kshkl3whwus::::res://assets/Soobway Stoof/textures/DefaultMaterial_BaseColor.jpg<>uid://clfntxqplap1q::::res://assets/Soobway Stoof/textures/DefaultMaterial_Metallic.jpg<>uid://dff4tg4tecymi::::res://assets/Materials/green_wall.jpg<>uid://dde7i50de6isv::::res://character_2.tscn<>uid://cyhytyay53wv7::::res://assets/Soobway Stoof/Counter/mat/Овощи-и-фрукты.jpeg<>uid://b4wvbqk7a3eil::::res://assets/Soobway Stoof/textures/DefaultMaterial_Normal.png<>uid://b82e24m4n8h47::::res://assets/Soobway Stoof/Counter/sb1.FBX<>uid://dacpfh6i6geyo::::res://assets/Materials/green_sign.jpg<>uid://cdr5hgeestxns::::res://assets/Soobway Stoof/Counter/mat/bunch-of-greens-and-vegetables.jpg<>uid://cd8ksibwlak4n::::res://assets/Soobway Stoof/Counter/mat/12_1_17_d.jpg<>uid://dopr18hxk5js7::::res://assets/Materials/yellow_sign.jpg<>uid://5dg74lxh0mjd::::res://assets/Materials/red_sign.jpg<>uid://mkl2nik233je::::res://assets/Textures/metal_0071_color_1k.jpg<>uid://dcvfahqoik3lo::::res://assets/Textures/metal_0071_metallic_1k.jpg<>uid://cn6flsp7glqq7::::res://assets/Textures/metal_0071_normal_directx_1k.png<>uid://b3fggpy7sxm17::::res://assets/Textures/metal_0071_roughness_1k.jpg<>uid://dbtvt4vruc531::::res://assets/Soobway Stoof/Counter/mat/hqdefault (1).jpg<>uid://ceplxpnr3hlfa::::res://assets/Soobway Stoof/source/LightFixtureRecessed.fbx<>uid://b8yn2pqxr61yi::::res://assets/Soobway Stoof/modern_interior_ceiling_light.glb<>uid://bqe48sdskbj8r::::res://assets/Soobway Stoof/lightswitch.fbx<>uid://dl0os076w0318::::res://assets/Soobway Stoof/Sign/Unnamed1-subway-supreme-SUP-yellow-30mm.obj<>uid://x654210j2h03::::res://assets/Soobway Stoof/Sign/Unnamed3-subway-supreme-REME-white-30mm.obj
+fredric.gd::GDScript::-1::1699130910::0::1::::<>Node3D<>::
+fredric.tscn::PackedScene::3509659428086231769::1699149997::0::1::::<><>::uid://du0t5xvk67y2j
+gridmaterial.tres::VisualShader::8527921838905746691::1699133385::0::1::::<><>::
+icon.svg::CompressedTexture2D::3886206400320860820::1699130910::1699131184::1::::<><>::
+::res://addons/::1699155705
+::res://addons/HaSa1002.light-tools/::1699155706
+Light.png::CompressedTexture2D::8013172593678393849::1699155705::1699155706::1::::<><>::
+LightColor.gd::GDScript::-1::1699155705::0::1::::<>EditorInspectorPlugin<>::
+LightColorEditor.gd::GDScript::-1::1699155705::0::1::::LightColorEditor<>EditorProperty<>::
+LightTools.gd::GDScript::-1::1699155705::0::1::::<>EditorPlugin<>::
+plugin.cfg::TextFile::-1::1699155706::0::1::::<><>::
+ToolIcon.svg::CompressedTexture2D::9189269069292512322::1699155705::1699155706::1::::<><>::
+::res://assets/::1699152074
+cheese.obj::PackedScene::8407293237651515472::1699130910::1699131187::1::::<><>::
+uploads_files_3220918_Cheese.dae::PackedScene::7403447624624002142::1699149997::1699150017::1::::<><>::
+::res://assets/Action Adventure Pack/::1699131522
+Ch08_nonPBR-39c78b4a3c2610d928caf927a2f87329_ao_met_rough_Ch08_1001_Glossiness.png::CompressedTexture2D::2470610176711205457::1699131469::1699131522::1::::<><>::
+Ch08_nonPBR-39c78b4a3c2610d928caf927a2f87329_ao_met_rough_Ch08_1002_Glossiness.png::CompressedTexture2D::1635280531735193913::1699131501::1699131522::1::::<><>::
+Ch08_nonPBR-39c78b4a3c2610d928caf927a2f87329_Ch08_1001_Diffuse.png::CompressedTexture2D::6065782362684199667::1699131480::1699131522::1::::<><>::
+Ch08_nonPBR-39c78b4a3c2610d928caf927a2f87329_Ch08_1001_Normal.png::CompressedTexture2D::5786441976071904423::1699131458::1699131522::1::::<><>::
+Ch08_nonPBR-39c78b4a3c2610d928caf927a2f87329_Ch08_1002_Diffuse.png::CompressedTexture2D::3879183358872539692::1699131506::1699131522::1::::<><>::
+Ch08_nonPBR-39c78b4a3c2610d928caf927a2f87329_Ch08_1002_Normal.png::CompressedTexture2D::3643913598677053679::1699131492::1699131522::1::::<><>::
+Ch08_nonPBR-39c78b4a3c2610d928caf927a2f87329_Ch08_1003_Diffuse.png::CompressedTexture2D::7915266075747492360::1699131515::1699131521::1::::<><>::
+Ch08_nonPBR.fbx::PackedScene::3471373072914581369::1699131400::1699131519::1::::<><>::uid://csoksw8ma4jx0
+cover to stand (2).fbx::PackedScene::4734773506447169082::1699131400::1699131437::1::::<><>::
+cover to stand.fbx::PackedScene::2548920056699021976::1699131400::1699131436::1::::<><>::
+crouched sneaking left.fbx::PackedScene::187118183670715614::1699131400::1699131436::1::::<><>::
+crouched sneaking right.fbx::PackedScene::3726191573134780459::1699131400::1699131436::1::::<><>::
+falling idle.fbx::PackedScene::8801853045246540795::1699131400::1699131435::1::::<><>::
+falling to roll.fbx::PackedScene::7447483423873786003::1699131400::1699131435::1::::<><>::
+hard landing.fbx::PackedScene::598153618004780116::1699131400::1699131434::1::::<><>::
+idle (2).fbx::PackedScene::2592005780849350757::1699131400::1699131434::1::::<><>::
+idle (3).fbx::PackedScene::1368575943785654006::1699131400::1699131433::1::::<><>::
+idle (4).fbx::PackedScene::640317885291214424::1699131400::1699131432::1::::<><>::
+idle (5).fbx::PackedScene::8601479207597641365::1699131400::1699131432::1::::<><>::
+idle.fbx::PackedScene::1271350893396787858::1699131400::1699131431::1::::<><>::
+jumping up.fbx::PackedScene::6488353894197060217::1699131400::1699131431::1::::<><>::
+left cover sneak.fbx::PackedScene::2467224029735510118::1699131400::1699131430::1::::<><>::
+left turn.fbx::PackedScene::6975496549679093260::1699131400::1699131430::1::::<><>::
+right cover sneak.fbx::PackedScene::7301115946639493086::1699131400::1699131430::1::::<><>::
+right turn.fbx::PackedScene::6914398895096106931::1699131400::1699131429::1::::<><>::
+run to stop.fbx::PackedScene::145691115529731225::1699131400::1699131429::1::::<><>::
+running.fbx::PackedScene::5017818359792365597::1699131400::1699131428::1::::<><>::
+stand to cover (2).fbx::PackedScene::8845905371047759318::1699131400::1699131428::1::::<><>::
+stand to cover.fbx::PackedScene::4987721785572230803::1699131400::1699131427::1::::<><>::
+walking.fbx::PackedScene::1775193087295042885::1699131400::1699131427::1::::<><>::
+::res://assets/Action Adventure Pack/Ch08_nonPBR.fbm/::1699131537
+Ch08_1001_Diffuse.png::CompressedTexture2D::4396713836810303987::1699131437::1699131536::1::::<><>::
+Ch08_1001_Glossiness.png::CompressedTexture2D::5850480375481317064::1699131437::1699131533::1::::<><>::
+Ch08_1001_Normal.png::CompressedTexture2D::8914129207202879585::1699131437::1699131537::1::::<><>::
+Ch08_1001_Specular.png::CompressedTexture2D::5985299866109983583::1699131437::1699131530::1::::<><>::
+Ch08_1002_Diffuse.png::CompressedTexture2D::8585090643497134675::1699131437::1699131536::1::::<><>::
+Ch08_1002_Glossiness.png::CompressedTexture2D::1977261669910929999::1699131437::1699131532::1::::<><>::
+Ch08_1002_Normal.png::CompressedTexture2D::5852307890183568202::1699131437::1699131537::1::::<><>::
+Ch08_1002_Specular.png::CompressedTexture2D::2234888052287790143::1699131437::1699131530::1::::<><>::
+Ch08_1003_Diffuse.png::CompressedTexture2D::8458990173390430318::1699131437::1699131533::1::::<><>::
+Ch08_1003_Normal.png::CompressedTexture2D::6132661837451862135::1699131437::1699131532::1::::<><>::
+::res://assets/Environment/::1699132623
+::res://assets/Environment/Car/::1699150011
+Chevrolet_Camaro_SS_002.png::CompressedTexture2D::5568481686858910991::1699132267::1699150011::1::::<><>::
+Chevrolet_Camaro_SS_Low.obj::Mesh::1399200987369470204::1699132267::1699150011::1::::<><>::
+::res://assets/Environment/Fence/::1699150013
+burnished-metal.jpg::CompressedTexture2D::5212851095621038309::1699132267::1699150011::1::::<><>::
+fance.obj::Mesh::7720129973597848762::1699132267::1699150013::1::::<><>::
+fance.png::CompressedTexture2D::3898729389218944101::1699132267::1699150011::1::::<><>::
+::res://assets/Environment/Grassland/::1699150011
+Grass02.jpg::CompressedTexture2D::5757388982040985044::1699132267::1699150011::1::::<><>::
+Grass02_Normal.jpg::CompressedTexture2D::2353284425013090039::1699132267::1699150011::1::::<><>::
+::res://assets/Environment/Parking Lot/::1699150016
+scene.gltf::PackedScene::3817019149055123373::1699132267::1699150016::1::::<><>::
+::res://assets/Environment/Road/::1699150011
+Road.jpg::CompressedTexture2D::6006576256292486245::1699132267::1699150011::1::::<><>::
+::res://assets/Environment/Trees/::1699150015
+rock.png::CompressedTexture2D::2643202189127059081::1699132623::1699150011::1::::<><>::
+rock_1-8b47a1f470e96474659ece47b62598f1_rock.png::CompressedTexture2D::2590563779914378085::1699132623::1699150011::1::::<><>::
+rock_1-9c051ca22a1c37c27a1e743c5a9e7868_rock.png::CompressedTexture2D::333537560739988442::1699132627::1699132628::1::::<><>::
+rock_1.fbx::PackedScene::4621091243531258867::1699132623::1699150015::1::::<><>::uid://e0tkyavpecxu
+rock_2-3f16cf72fbe5a7c1d82541c0031b4318_rock.png::CompressedTexture2D::8639779826226288601::1699132627::1699132628::1::::<><>::
+rock_2-5c247a5a7a7a5ed49d8a01b754549636_rock.png::CompressedTexture2D::2890828292746851962::1699132623::1699150011::1::::<><>::
+rock_2.fbx::PackedScene::2487390760324530307::1699132623::1699150014::1::::<><>::uid://dvdf58vv4unrt
+tree_dead-79b98224dc539ddcc4c4f7517edfd485_tree_bark_dark.png::CompressedTexture2D::7790807238499931181::1699132623::1699150011::1::::<><>::
+tree_dead.fbx::PackedScene::3470902017026416476::1699132623::1699150014::1::::<><>::
+::res://assets/FREDDY FNAF/::1699131186
+license.txt::TextFile::-1::1699130910::0::1::::<><>::
+scene.gltf::PackedScene::8615856805346168047::1699130910::1699131186::1::::<><>::uid://bv3y43521kkkm
+::res://assets/FREDDY FNAF/textures/::1699131184
+Material.001_baseColor.png::CompressedTexture2D::3919699491314934616::1699130910::1699131184::1::::<><>::
+Material.001_normal.jpeg::CompressedTexture2D::8673102396123409567::1699130910::1699131184::1::::<><>::
+Material.009_baseColor.jpeg::CompressedTexture2D::3487647314735334672::1699130910::1699131184::1::::<><>::
+Material.033_baseColor.png::CompressedTexture2D::1691868091911404886::1699130910::1699131184::1::::<><>::
+pieces.001_metallicRoughness.png::CompressedTexture2D::7529074302327137045::1699130910::1699131184::1::::<><>::
+TEETH.001_metallicRoughness.png::CompressedTexture2D::7966232181927078869::1699130910::1699131184::1::::<><>::
+wire2.001_normal.png::CompressedTexture2D::4005847584912355645::1699130910::1699131184::1::::<><>::
+::res://assets/maniq/::1699130972
+::res://assets/maniq/2d/::1699131184
+reticle.png::CompressedTexture2D::6180169631858559082::1699120546::1699131184::1::::<><>::
+::res://assets/maniq/3d/::1699130972
+::res://assets/maniq/3d/level/::1699131186
+level_environment.tres::Environment::-1::1699120546::0::1::::<><>::
+Material.material::StandardMaterial3D::-1::1699120546::0::1::::<><>::
+playground.glb::PackedScene::6311453075021878854::1699120546::1699131186::1::::<><>::
+::res://assets/maniq/3d/mannequiny/::1699131186
+Azul.material::StandardMaterial3D::-1::1699120547::0::1::::<><>::
+Blanco.material::StandardMaterial3D::-1::1699120547::0::1::::<><>::
+mannequiny-0.3.0.glb::PackedScene::2081749053657816421::1699120547::1699131186::1::::<><>::
+Negro.material::StandardMaterial3D::-1::1699120547::0::1::::<><>::
+::res://assets/maniq/3d/materials/::1699130972
+floor.tres::StandardMaterial3D::-1::1699120547::0::1::::<><>::
+obstacle.tres::StandardMaterial3D::-1::1699120547::0::1::::<><>::
+::res://assets/maniq/theme/::1699130972
+empty.stylebox::StyleBoxEmpty::-1::1699120547::0::1::::<><>::
+gdquest.theme::Theme::-1::1699120547::0::1::::<><>::res://assets/theme/fonts/default_font.tres<>res://assets/theme/button/disabled.stylebox<>res://assets/theme/button/focused.stylebox<>res://assets/theme/button/hover.stylebox<>res://assets/theme/button/normal.stylebox<>res://assets/theme/button/pressed.stylebox<>res://assets/theme/separator/line.tres<>res://assets/theme/slider/grabber_area.stylebox<>res://assets/theme/slider/slider.stylebox<>res://assets/theme/panel/panel.stylebox<>res://assets/theme/fonts/default_font_bold.tres<>res://assets/theme/fonts/default_font_code.tres
+::res://assets/maniq/theme/button/::1699130972
+disabled.stylebox::StyleBoxFlat::-1::1699120547::0::1::::<><>::
+focused.stylebox::StyleBoxFlat::-1::1699120547::0::1::::<><>::
+hover.stylebox::StyleBoxFlat::-1::1699120547::0::1::::<><>::
+normal.stylebox::StyleBoxFlat::-1::1699120547::0::1::::<><>::
+pressed.stylebox::StyleBoxFlat::-1::1699120547::0::1::::<><>::
+::res://assets/maniq/theme/fonts/::1699130972
+default_font.tres::FontFile::-1::1699120547::0::1::::<><>::res://assets/theme/fonts/montserrat/Montserrat-Medium.ttf
+default_font_bold.tres::FontFile::-1::1699120547::0::1::::<><>::res://assets/theme/fonts/montserrat/Montserrat-Bold.ttf
+default_font_code.tres::FontFile::-1::1699120547::0::1::::<><>::res://assets/theme/fonts/source_code_pro/SourceCodePro-Medium.otf
+font_title.tres::FontFile::-1::1699120547::0::1::::<><>::res://assets/theme/fonts/montserrat/Montserrat-Black.ttf
+::res://assets/maniq/theme/fonts/montserrat/::1699131184
+Montserrat-Black.ttf::FontFile::449621870590065599::1699120547::1699131184::1::::<><>::
+Montserrat-Bold.ttf::FontFile::173718794430825453::1699120547::1699131184::1::::<><>::
+Montserrat-Medium.ttf::FontFile::369326635140323141::1699120548::1699131184::1::::<><>::
+::res://assets/maniq/theme/fonts/source_code_pro/::1699131184
+SourceCodePro-Medium.otf::FontFile::7578234197994690985::1699120548::1699131184::1::::<><>::
+::res://assets/maniq/theme/icons/::1699131184
+chevron-right.svg::CompressedTexture2D::7434089281520409123::1699120548::1699131184::1::::<><>::
+chevron-up.svg::CompressedTexture2D::704991838946125118::1699120548::1699131184::1::::<><>::
+::res://assets/maniq/theme/panel/::1699130972
+panel.stylebox::StyleBoxFlat::-1::1699120548::0::1::::<><>::
+::res://assets/maniq/theme/separator/::1699130972
+line.tres::StyleBoxLine::-1::1699120548::0::1::::<><>::
+::res://assets/maniq/theme/slider/::1699130972
+grabber_area.stylebox::StyleBoxFlat::-1::1699120548::0::1::::<><>::
+slider.stylebox::StyleBoxFlat::-1::1699120548::0::1::::<><>::
+::res://assets/Materials/::1699160243
+big_sign.jpg::CompressedTexture2D::1220354601527227411::1699142945::1699143052::1::::<><>::
+floor.jpg::CompressedTexture2D::3284735506955167324::1699142916::1699143252::1::::<><>::
+gray_wall.jpg::CompressedTexture2D::8539444432934826641::1699142923::1699143881::1::::<><>::
+green_sign.jpg::CompressedTexture2D::7164310906405983150::1699142924::1699160118::1::::<><>::
+green_wall.jpg::CompressedTexture2D::7522323241722338544::1699142925::1699143416::1::::<><>::
+red_sign.jpg::CompressedTexture2D::2112281430990074941::1699142947::1699160243::1::::<><>::
+soda_machine.jpg::CompressedTexture2D::2949153117189759631::1699142949::1699143052::1::::<><>::
+yellow_sign.jpg::CompressedTexture2D::8173951892984964312::1699142951::1699160190::1::::<><>::
+::res://assets/Soobway Stoof/::1699165143
+1.png::CompressedTexture2D::5124620838548557488::1699154670::1699154691::1::::<><>::
+2.png::CompressedTexture2D::393579825597263528::1699154670::1699154691::1::::<><>::
+lightswitch-1033561958f1f86fcd1e7e1cf235f75b_ao_met_rough_lightswitch_Roughness.png::CompressedTexture2D::6982503435352774655::1699157098::1699157099::1::::<><>::
+lightswitch-1033561958f1f86fcd1e7e1cf235f75b_lightswitch_Normal.png::CompressedTexture2D::7639567912858327804::1699157097::1699157099::1::::<><>::
+lightswitch.fbx::PackedScene::3519520367792915007::1699157083::1699157099::1::::<><>::uid://c6qm2uag0ynjj
+modern_interior_ceiling_light.glb::PackedScene::4753035940823105160::1699156677::1699156689::1::::<><>::
+outdoor_table_chair_set_01_1k-5db03142d497426563a551e8234bb9a1_ao_met_rough_outdoor_table_chair_set_01_chair_rough_1k.png::CompressedTexture2D::4713472323710720730::1699153806::1699153810::1::::<><>::
+outdoor_table_chair_set_01_1k-5db03142d497426563a551e8234bb9a1_ao_met_rough_outdoor_table_chair_set_01_table_rough_1k.png::CompressedTexture2D::3677791667633107089::1699153808::1699153810::1::::<><>::
+outdoor_table_chair_set_01_1k-5db03142d497426563a551e8234bb9a1_outdoor_table_chair_set_01_chair_diff_1k.png::CompressedTexture2D::7488650983375000870::1699153807::1699153810::1::::<><>::
+outdoor_table_chair_set_01_1k-5db03142d497426563a551e8234bb9a1_outdoor_table_chair_set_01_chair_nor_gl_1k.png::CompressedTexture2D::4013525286949711369::1699153806::1699153810::1::::<><>::
+outdoor_table_chair_set_01_1k-5db03142d497426563a551e8234bb9a1_outdoor_table_chair_set_01_table_diff_1k.png::CompressedTexture2D::6838337070261441825::1699153809::1699153810::1::::<><>::
+outdoor_table_chair_set_01_1k-5db03142d497426563a551e8234bb9a1_outdoor_table_chair_set_01_table_nor_gl_1k.png::CompressedTexture2D::6125626697122191815::1699153808::1699153810::1::::<><>::
+outdoor_table_chair_set_01_1k.fbx::PackedScene::1706142705359063014::1699153779::1699153810::1::::<><>::uid://dexs8twi37xlu
+poly.glb::PackedScene::3515679361606522943::1699141124::1699141743::1::::<><>::uid://cfybyfmf1wg1b
+polyClean.glb::PackedScene::538405167434605796::1699144445::1699144507::1::::<><>::uid://kfnqlbbhtdah
+polyClean_0.png::CompressedTexture2D::713028798116261115::1699144507::1699144508::1::::<><>::
+poly_0.png::CompressedTexture2D::5173434509137480701::1699141742::1699141743::1::::<><>::
+raw (1).glb::PackedScene::1682190835299535550::1699141140::1699141321::1::::<><>::uid://bexbggvpi1sks
+raw (1)_0.png::CompressedTexture2D::2714728526619059998::1699141272::1699141516::1::::<><>::
+raw (2).glb::PackedScene::2270267179463060758::1699141144::1699141379::1::::<><>::uid://dkyfdb4q5dm4x
+raw (2)_0.png::CompressedTexture2D::7911004593992476505::1699141326::1699141513::1::::<><>::
+raw (2)_1.png::CompressedTexture2D::8589495271877843740::1699141342::1699141512::1::::<><>::
+raw (2)_2.png::CompressedTexture2D::7955617047190650366::1699141358::1699141514::1::::<><>::
+raw (2)_3.png::CompressedTexture2D::2246620386187980888::1699141370::1699141512::1::::<><>::
+raw (3).glb::PackedScene::4558052162498036858::1699141152::1699141445::1::::<><>::uid://by2q1elknvhwx
+raw (3)_0.png::CompressedTexture2D::4127709260450092951::1699141389::1699141513::1::::<><>::
+raw (3)_1.png::CompressedTexture2D::2032208989842064230::1699141413::1699141513::1::::<><>::
+raw (3)_2.png::CompressedTexture2D::4634110702107116619::1699141434::1699141514::1::::<><>::
+raw (4).glb::PackedScene::3694383250502674692::1699141157::1699141507::1::::<><>::uid://blby3nrlxqs7c
+raw (4)_0.png::CompressedTexture2D::3162070261117652378::1699141453::1699141514::1::::<><>::
+raw (4)_1.png::CompressedTexture2D::4715673404001150113::1699141478::1699141514::1::::<><>::
+raw (4)_2.png::CompressedTexture2D::5587323351475182336::1699141497::1699141515::1::::<><>::
+raw.glb::PackedScene::7589059012922080525::1699140959::1699141509::1::::<><>::uid://sp0b1yyoc81x
+raw_0.png::CompressedTexture2D::1295885966200232319::1699140991::1699141241::1::::<><>::
+raw_1.png::CompressedTexture2D::783041086675994910::1699141014::1699141241::1::::<><>::
+raw_2.png::CompressedTexture2D::2849766664186617600::1699141033::1699141241::1::::<><>::
+::res://assets/Soobway Stoof/Counter/::1699147090
+1.jpg::CompressedTexture2D::456874528874853426::1538253087::1699147037::1::::<><>::
+sb1.FBX::PackedScene::4758683350565394702::1443629931::1699147090::1::::<><>::
+::res://assets/Soobway Stoof/Counter/mat/::1699153283
+008.jpg::CompressedTexture2D::5342803182118783839::1422311021::1699147037::1::::<><>::
+12_1_17_b.jpg::CompressedTexture2D::694990854407676393::1381014719::1699147038::1::::<><>::
+12_1_17_d.jpg::CompressedTexture2D::5052172101148121791::1381014719::1699151427::1::::<><>::
+12_1_17_r.jpg::CompressedTexture2D::2420603381847670947::1381014581::1699151614::1::::<><>::
+1023358.jpg::CompressedTexture2D::5005165764964386613::1422309128::1699147037::1::::<><>::
+bunch-of-greens-and-vegetables.jpg::CompressedTexture2D::5020336651985531744::1422460120::1699151294::1::::<><>::
+hqdefault (1).jpg::CompressedTexture2D::7269984615394050170::1422309198::1699153283::1::::<><>::
+menusubway15-L.jpg::CompressedTexture2D::5038595363425503062::1422380214::1699147038::1::::<><>::
+Untitled-2.jpg::CompressedTexture2D::2616686050332489997::1443625820::1699147037::1::::<><>::
+Овощи-и-фрукты.jpeg::CompressedTexture2D::6473316658580056322::1422460065::1699151177::1::::<><>::
+скачанные файлы.jpg::CompressedTexture2D::6728054195997763679::1443563281::1699147037::1::::<><>::
+::res://assets/Soobway Stoof/Counter 2/::1699147436
+::res://assets/Soobway Stoof/Counter 2/mat/::1699147607
+008.jpg::CompressedTexture2D::2269669200086926955::1422311021::1699147440::1::::<><>::
+12_1_17_b.jpg::CompressedTexture2D::1922249725854800703::1381014719::1699147441::1::::<><>::
+12_1_17_d.jpg::CompressedTexture2D::3463977375155546155::1381014719::1699147444::1::::<><>::
+12_1_17_r.jpg::CompressedTexture2D::3340706760901718619::1381014581::1699147442::1::::<><>::
+1023358.jpg::CompressedTexture2D::5861747235501029544::1422309128::1699147440::1::::<><>::
+bunch-of-greens-and-vegetables.jpg::CompressedTexture2D::3580051058003743257::1422460120::1699147451::1::::<><>::
+hqdefault (1).jpg::CompressedTexture2D::24394579315567824::1422309198::1699147440::1::::<><>::
+menusubway15-L.jpg::CompressedTexture2D::4564160212247341140::1422380214::1699147441::1::::<><>::
+sb1.FBX::PackedScene::5073499133932790708::1443629931::1699147607::1::::<><>::
+Untitled-2.jpg::CompressedTexture2D::8015176372970089294::1443625820::1699147440::1::::<><>::
+Овощи-и-фрукты.jpeg::CompressedTexture2D::2852955503593592884::1422460065::1699147442::1::::<><>::
+скачанные файлы.jpg::CompressedTexture2D::5026915969368473325::1443563281::1699147440::1::::<><>::
+::res://assets/Soobway Stoof/Counter 2/sb1/::1699147563
+::res://assets/Soobway Stoof/Counter 2/sb2/::1699147436
+::res://assets/Soobway Stoof/Renderings/::1699154600
+Subway20110923-31394-6kwv24.jpg::CompressedTexture2D::6183522738502294025::1699154583::1699141241::1::::<><>::
+::res://assets/Soobway Stoof/Sign/::1699165533
+Unnamed1-subway-supreme-SUP-yellow-30mm.obj::Mesh::7983832321094580749::1699165367::1699165406::1::::<><>::
+Unnamed2-subway-supreme-outer-green-30mm.obj::Mesh::2709970456868967745::1699165375::1699165417::1::::<><>::
+Unnamed3-subway-supreme-REME-white-30mm.obj::Mesh::1680213871301185298::1699165506::1699165533::1::::<><>::
+::res://assets/Soobway Stoof/source/::1699157044
+LightFixtureRecessed.fbx::PackedScene::5085272177172289198::1699156501::1699156520::1::::<><>::
+::res://assets/Soobway Stoof/textures/::1699160012
+DefaultMaterial_BaseColor.jpg::CompressedTexture2D::9146299400440180842::1699156501::1699159974::1::::<><>::
+DefaultMaterial_Emissive.jpg::CompressedTexture2D::1719780918629807120::1699156501::1699156519::1::::<><>::
+DefaultMaterial_Metallic.jpg::CompressedTexture2D::5556065020615187536::1699156501::1699159998::1::::<><>::
+DefaultMaterial_Normal.png::CompressedTexture2D::4468591159704041355::1699156501::1699160012::1::::<><>::
+DefaultMaterial_Roughness.jpg::CompressedTexture2D::5725502170368602906::1699156501::1699156519::1::::<><>::
+lightswitch_Albedo.png::CompressedTexture2D::3465003959232048478::1699157083::1699157096::1::::<><>::
+lightswitch_AO.png::CompressedTexture2D::7951124811848419912::1699157083::1699157096::1::::<><>::
+lightswitch_Metalness.png::CompressedTexture2D::7695177245139321570::1699157083::1699157096::1::::<><>::
+lightswitch_Normal.png::CompressedTexture2D::6034555812125050047::1699157083::1699157096::1::::<><>::
+lightswitch_Roughness.png::CompressedTexture2D::335325087775816697::1699157083::1699157096::1::::<><>::
+outdoor_table_chair_set_01_chair_diff_1k.png::CompressedTexture2D::8118219946121796916::1699153780::1699153804::1::::<><>::
+outdoor_table_chair_set_01_chair_metal_1k.png::CompressedTexture2D::5899794107704209755::1699153779::1699153803::1::::<><>::
+outdoor_table_chair_set_01_chair_nor_gl_1k.png::CompressedTexture2D::3100694279985577268::1699153779::1699153803::1::::<><>::
+outdoor_table_chair_set_01_chair_rough_1k.png::CompressedTexture2D::3718284539763357420::1699153780::1699153803::1::::<><>::
+outdoor_table_chair_set_01_table_diff_1k.png::CompressedTexture2D::4921803040101157212::1699153779::1699153804::1::::<><>::
+outdoor_table_chair_set_01_table_metal_1k.png::CompressedTexture2D::1270347017177766771::1699153780::1699153803::1::::<><>::
+outdoor_table_chair_set_01_table_nor_gl_1k.png::CompressedTexture2D::4058914818975545150::1699153780::1699153803::1::::<><>::
+outdoor_table_chair_set_01_table_rough_1k.png::CompressedTexture2D::748807410742116599::1699153780::1699153803::1::::<><>::
+::res://assets/Textures/::1699166130
+metal_0071_ao_1k.jpg::CompressedTexture2D::4430918155722626314::1699151997::1699152211::1::::<><>::
+metal_0071_color_1k.jpg::CompressedTexture2D::863626700206405366::1699151997::1699152436::1::::<><>::
+metal_0071_description.txt::TextFile::-1::1699151997::0::1::::<><>::
+metal_0071_height_1k.png::CompressedTexture2D::2116110316272424414::1699151997::1699152094::1::::<><>::
+metal_0071_keywords.txt::TextFile::-1::1699151997::0::1::::<><>::
+metal_0071_metallic_1k.jpg::CompressedTexture2D::7343295649181989636::1699151997::1699152370::1::::<><>::
+metal_0071_normal_directx_1k.png::CompressedTexture2D::5749616243808034168::1699151997::1699152473::1::::<><>::
+metal_0071_normal_opengl_1k.png::CompressedTexture2D::4864358068698905848::1699151997::1699152479::1::::<><>::
+metal_0071_preview.jpg::CompressedTexture2D::2914698494966480747::1699151997::1699152094::1::::<><>::
+metal_0071_roughness_1k.jpg::CompressedTexture2D::4362406037452799388::1699151997::1699152453::1::::<><>::
+moon.jpg::CompressedTexture2D::4708119065289665305::1699166130::1699166182::1::::<><>::

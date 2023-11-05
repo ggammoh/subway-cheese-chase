@@ -1,0 +1,48 @@
+[gd_scene load_steps=9 format=3 uid="uid://cf47bjmfhvstd"]
+
+[ext_resource type="Script" path="res://cheese_2.gd" id="1_wuhpm"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_mcmk3"]
+size = Vector3(0.09, 0.09, 0.005)
+
+[sub_resource type="Gradient" id="Gradient_yrh48"]
+colors = PackedColorArray(0.750153, 0.729449, 0, 1, 1, 1, 1, 1)
+
+[sub_resource type="FastNoiseLite" id="FastNoiseLite_x7d84"]
+
+[sub_resource type="NoiseTexture2D" id="NoiseTexture2D_8iy7b"]
+color_ramp = SubResource("Gradient_yrh48")
+noise = SubResource("FastNoiseLite_x7d84")
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_j32ha"]
+albedo_color = Color(1, 1, 0, 1)
+albedo_texture = SubResource("NoiseTexture2D_8iy7b")
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_mcvhu"]
+size = Vector3(1.50857, 1.59687, 0.218938)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_dgkdh"]
+size = Vector3(0.1, 0.1, 0.01)
+
+[node name="cheese2" type="RigidBody3D"]
+transform = Transform3D(1.339, 0, 0, 0, 1.339, 0, 0, 0, 1.339, 0, 0, 0)
+collision_layer = 2
+mass = 0.03
+script = ExtResource("1_wuhpm")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(2.495, 0, 0, 0, 2.495, 0, 0, 0, 2.495, 0, 0, 0)
+mesh = SubResource("BoxMesh_mcmk3")
+surface_material_override/0 = SubResource("StandardMaterial3D_j32ha")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(2.495, 0, 0, 0, 2.495, 0, 0, 0, 2.495, 0, 0, 0)
+shape = SubResource("BoxShape3D_mcvhu")
+
+[node name="Area3D" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D"]
+transform = Transform3D(2.495, 0, 0, 0, 2.495, 0, 0, 0, 2.495, 0, 0, 0)
+shape = SubResource("BoxShape3D_dgkdh")
+
+[connection signal="body_entered" from="Area3D" to="." method="_on_area_3d_body_entered"]

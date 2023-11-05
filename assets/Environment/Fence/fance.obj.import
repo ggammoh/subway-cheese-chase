@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dh8xobelniefq"
+path="res://.godot/imported/fance.obj-cd955243849fded565b74df3933bc8db.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fance.obj-cd955243849fded565b74df3933bc8db.mesh"]
+
+source_file="res://assets/Environment/Fence/fance.obj"
+dest_files=["res://.godot/imported/fance.obj-cd955243849fded565b74df3933bc8db.mesh", "res://.godot/imported/fance.obj-cd955243849fded565b74df3933bc8db.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,15 @@
+MeshInstance3D
+OmniLight3D
+Node3D
+StaticBody3D
+CSGPolygon3D
+CollisionShape3D
+AudioStreamPlayer3D
+SpotLight3D
+CSGMesh3D
+AnimatableBody3D
+DirectionalLight3D
+WorldEnvironment
+Area3D
+CSGBox3D
+CollisionPolygon3D
